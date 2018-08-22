@@ -6,6 +6,6 @@
 <body>
 	<h1>Hello World</h1>
 
-	<p>Lorem Ipsum</p>
+	<p>Lorem Ipsum Dolor</p>
 </body>
 </html>
